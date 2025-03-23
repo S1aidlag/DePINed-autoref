@@ -1,0 +1,22 @@
+{
+  "name": "meganet-autoreff",
+  "version": "1.0.0",
+  "description": "A script to automate account creation using Puppeteer.",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "dependencies": {
+    "axios": "^1.6.2",
+    "chalk": "^4.1.2",
+    "puppeteer": "^24.4.0",
+    "user-agents": "^1.0.559"
+  },
+  "keywords": [
+    "puppeteer",
+    "automation",
+    "account-creation"
+  ],
+  "author": "Your Name",
+  "license": "MIT"
+}
